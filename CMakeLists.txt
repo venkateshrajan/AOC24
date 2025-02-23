@@ -14,3 +14,7 @@ project ("AOC24")
 # Include sub-projects.
 add_subdirectory ("AOCD1P1")
 add_subdirectory ("AOCD1P2")
+add_subdirectory ("AOCD2P1")
+add_subdirectory ("AOCD3P1")
+add_subdirectory ("AOCD3P2")
+add_subdirectory ("PLAYGROUND")
