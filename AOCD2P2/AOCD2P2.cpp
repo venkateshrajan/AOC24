@@ -53,7 +53,7 @@ int main()
 				pos.insert(a - b);
 				neg.insert(a - b);
 			}
-			if (pos.size() == 3 or neg.size() == 3) {
+			if (pos.size() == 3 || neg.size() == 3) {
 				total++; 
 				break;
 			}
